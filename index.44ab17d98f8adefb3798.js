@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.querySelector("html"),t=document.querySelector("#toggle"),c=document.querySelector("#toggle-sm");t.addEventListener("click",(()=>s())),c.addEventListener("click",(()=>s()));const s=()=>{e.classList.contains("dark")?e.classList.remove("dark"):e.classList.add("dark")}})();
